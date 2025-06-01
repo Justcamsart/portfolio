@@ -6,7 +6,7 @@ Ce portfolio est un site **personnel et professionnel** développé avec **Angul
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 | Outil / Technologie     | Utilisation principale                       |
 |-------------------------|----------------------------------------------|
