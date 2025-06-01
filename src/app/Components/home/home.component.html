@@ -1,0 +1,19 @@
+<app-animated-background></app-animated-background>
+
+<section class="relative z-10 h-screen flex flex-col justify-center items-center text-white px-4">
+  <h1 class="text-5xl md:text-7xl font-bold mb-4 text-center bg-gradient-to-r from-yellow-300 to-pink-500 bg-clip-text text-transparent">CAMILLE MARCHAND</h1>
+  <p class="text-xl md:text-2xl text-center mb-8 bg-gradient-to-r from-yellow-300 via-pink-500 to-purple-600 bg-clip-text text-transparent">
+    {{ 'home.role' | translate }}
+  </p>
+  <a
+  href="#projects"
+  class="relative overflow-hidden px-6 py-3 bg-gradient-to-r from-pink-400 to-purple-600 text-white font-semibold rounded-full shadow-lg transition-all duration-300 hover:scale-105 group"
+>
+  <span
+    class="absolute inset-0 bg-gradient-to-r from-yellow-300 via-pink-500 to-purple-600 transform -translate-x-full group-hover:translate-x-0 transition-transform duration-500 ease-out"
+  ></span>
+  <span class="relative z-10">{{ 'home.cta' | translate }}</span>
+</a>
+
+
+</section>

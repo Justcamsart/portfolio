@@ -1,0 +1,25 @@
+.nav-link {
+  position: relative;
+  transition: color 0.3s ease;
+
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(to right, #facc15, #fbbf24); // or pink to orange
+    transition: width 0.3s ease;
+  }
+
+  &:hover {
+    color: #facc15;
+
+    &::after {
+      width: 100%;
+    }
+  }
+
+}
+

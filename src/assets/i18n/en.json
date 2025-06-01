@@ -1,0 +1,46 @@
+{
+  "navbar": {
+    "skills": "SKILLS",
+    "projects": "PROJECTS",
+    "about": "ABOUT",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "role": "Web Designer · Web Developer",
+    "cta": "See my projects"
+  },
+  "projects": {
+    "alsareDigital": {
+      "title": "AlSare Digital",
+      "desc": "A showcase website for the AlSare Digital brand"
+    },
+    "alsareCreation": {
+      "title": "AlSare Creation",
+      "desc": "An online shop highlighting eco-responsible products in a cozy theme."
+    },
+    "planningApp": {
+      "title": "Event Planning App",
+      "desc": "A mobile UX app designed to simplify event creation and management."
+    },
+    "creaApp": {
+      "title": "Mindful Creativity App",
+      "desc": "A wellness app designed to help users recentre, manage stress, and improve sleep."
+    }
+  },
+  "about": {
+    "title": "WHO AM I?",
+    "subtitle": "Designer & Engineer",
+    "desc": "I'm Camille, a fullstack engineer who fell in love with design. One day, I wanted to understand why my interfaces 'worked' but didn't feel right... So I dived into UX/UI, color palettes and elegant type. Today, I create well-coded, well-thought-out projects — and (I promise) better looking than my first HTML buttons."
+  },
+  "contact": {
+    "subtitle": "LET'S STAY CONNECTED",
+    "title": "Let's get in touch?",
+    "desc": "I live in Strasbourg, but I work with the whole world. Let's chat about design, dev or big ideas. Here's how to contact me:",
+    "email": "camille.marchand@alsaredigital.fr",
+    "linkedin": "LinkedIn",
+    "dribbble": "Dribbble"
+  },
+  "footer": {
+    "text": "© 2025 Camille Marchand — All rights reserved. This portfolio was fully imagined, designed and coded by myself."
+  }
+}

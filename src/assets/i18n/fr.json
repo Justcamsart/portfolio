@@ -1,0 +1,46 @@
+{
+  "navbar": {
+    "skills": "COMPÉTENCES",
+    "projects": "PROJETS",
+    "about": "À PROPOS",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "role": "Web Designer · Développeuse Web",
+    "cta": "Voir mes projets"
+  },
+  "projects": {
+    "alsareDigital": {
+      "title": "AlSare Digital",
+      "desc": "Un site vitrine pour la marque AlSare digital"
+    },
+    "alsareCreation": {
+      "title": "AlSare Creation",
+      "desc": "Une boutique en ligne mettant en valeur des produits éco-responsables dans un thème cosy."
+    },
+    "planningApp": {
+      "title": "App Planification Évènement",
+      "desc": "Une application mobile UX conçue pour simplifier la création et la gestion d’événements."
+    },
+    "creaApp": {
+      "title": "Application de créativité consciente",
+      "desc": "Une application de bien-être conçue pour aider les utilisateurs à se recentrer, gérer leur stress et améliorer leur sommeil."
+    }
+  },
+  "about": {
+    "title": "QUI SUIS-JE ?",
+    "subtitle": "Designer & Ingénieure",
+    "desc": "Je suis Camille, ingénieure fullstack tombée amoureuse du design. Un jour, j’ai voulu comprendre pourquoi mes interfaces “fonctionnaient” mais ne plaisaient pas... Alors j’ai plongé dans l’UX/UI, les palettes de couleurs et les typos bien choisies. Aujourd’hui, je conçois des projets bien codés, bien pensés — et (promis) plus jolis que mes premiers boutons HTML."
+  },
+  "contact": {
+    "subtitle": "RESTONS CONNECTÉS",
+    "title": "On reste en contact ?",
+    "desc": "Je vis à Strasbourg, mais je travaille avec le monde entier. Discutons design, dev ou belles idées. Voici comment me contacter :",
+    "email": "camille.marchand@alsaredigital.fr",
+    "linkedin": "LinkedIn",
+    "dribbble": "Dribbble"
+  },
+  "footer": {
+    "text": "© 2025 Camille Marchand — Tous droits réservés. Ce portfolio a été entièrement conçu, codé et imaginé par moi-même."
+  }
+}

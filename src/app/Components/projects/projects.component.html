@@ -1,0 +1,20 @@
+<section id="projects" class="projects-section">
+   <div class="projects-wrapper" appObserveVisibility >
+  <div class="sidebar">
+    <ul>
+      <li *ngFor="let project of projects; let i = index"
+          (click)="selectProject(i)"
+          [class.active]="i === selectedIndex">
+        <span class="bar"></span>
+        {{ project.nameKey | translate }}
+      </li>
+    </ul>
+  </div>
+
+  <div class="project-details">
+      <img [src]="projects[selectedIndex].image" [alt]="projects[selectedIndex].nameKey | translate" />
+      <h2>{{ projects[selectedIndex].nameKey | translate }}</h2>
+      <p>{{ projects[selectedIndex].descKey | translate }}</p>
+    </div>
+   </div>
+</section>
